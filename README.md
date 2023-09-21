@@ -24,8 +24,7 @@ Follow these steps to get NIP-05 verification on nostr with GitHub Pages
 ```json
 {
   "names": {
-    "<your-nostr-nym>": "<your-nostr-pubkey>",
-    "<your-nostr-nym>": "<your-nostr-pubkey>"
+    "<lelouch>": "<npub10mjkjv62za3qan6wgjkupn4eejr3n7v5td4fdpunzs655jp65j8sp0fq50>",
   }
 }
 ```
